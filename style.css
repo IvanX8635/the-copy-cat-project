@@ -1,17 +1,73 @@
 #navagation{
-   background-color: #2c3e50;
-    margin: 0px;
-    padding: 0px;
+    background-color: #2c3e50;
+    margin: -15px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 1px;
+    padding-bottom: 2px;
+    border-radius: 10px;
+    
+    
     
     
 }
-.deltamathlogo{
-    
+.deltamathlogo{;
     border-radius: 8px;
-    font-size: 20px ;
-    font-family: Lato, helvetica;
+    font-size: 22px ;
+    font-weight: lighter;
+    font-family: Lato,"Helvetica Neue",Helvetica,Arial,sans-serif;
     color:white;
+    padding-right: 750px;
+
 }
 
 .deltamath{
+    font-size: 14px;
+    font-family: Lato, helvetica;
+    color: rgb(255,255,255);
+    text-align: right ;
+    font-weight: lighter;
+    padding-right: 20px;
+
+}
+.deltamath:hover {
+    color: #18bc9c;
+}
+
+.student-image{
+    margin-top:100px;
+    margin-left: 400px;
+   
+}
+
+.loginbox{
+    width: 400px;
+    height: 250px;
+    background: white;
+    margin-left: 1050px;
+    margin-top: -200px;
+    border-style:solid;
+    border-width:1px;
+    border-color:lightgray;
+    position: absolute;
+    border-radius: 10px;
+   
+   
+}
+
+.login{
+    font-size: 20px;
+    margin-top:auto;
+    background:#ecf0f1;
+    position: absolute;
+    padding-left: 20px;
+    padding-right: 255px;
+    padding-top: 10px;
+    font: 16px;
+    font-weight:lighter;
+    font-family:Lato,Helvetica,Arial,sans-serif;
+}
+
+.logincredentials{
+    margin-top:50px;
 }

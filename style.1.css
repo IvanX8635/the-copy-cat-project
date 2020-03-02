@@ -73,6 +73,8 @@
     font: 16px;
     font-weight:lighter;
     font-family:Lato,Helvetica,Arial,sans-serif;
+    border-width:.5px;
+    border-radius:8px;
     
 }
 

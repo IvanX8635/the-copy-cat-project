@@ -129,6 +129,7 @@ input[type=text] {
 }
 .loginbox:hover{
     background:linear-gradient(to bottom, skyblue,white);
+    
 }
 
 .rainbow {
@@ -144,5 +145,9 @@ input[type=text] {
 
 @keyframes rainbow {
   from {background-color: red;}
-  to {margin-top:300px; background-color: blue;}
+  to {margin-left:30px; margin-top:200px; background-color: blue;}
+}
+
+.rainbow:hover{
+    animation-play-state: paused;
 }
